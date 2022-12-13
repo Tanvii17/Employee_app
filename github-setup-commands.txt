@@ -1,4 +1,4 @@
-# Initial Setup
+# Initial Setup [First time github setup]
 1.  git init
 2.  git add .
 3.  git commit -m "message"
@@ -6,8 +6,11 @@
 5.  git remote set-url origin https://Tanvii17:<Token>@github.com/Tanvii17/Employee-management.git
 6.  git push --set-upstream origin master
 
-#
-1. git add .
+# [From next time to push modified changes]
+1. git pull
+2. git add .
+3. git commit -m "added new commands"
+4. git push
 
 # To see new changes
 
