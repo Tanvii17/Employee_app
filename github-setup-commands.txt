@@ -1,4 +1,4 @@
-# Initial Setup [First time github setup]
+git# Initial Setup [First time github setup]
 1.  git init
 2.  git add .
 3.  git commit -m "message"
@@ -15,3 +15,7 @@
 # To see new changes
 
 1. git status
+
+
+git remote set-url origin https://Tanvii17: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@github.com/Tanvii17/Employee-Application.git
+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
